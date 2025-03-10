@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -26,12 +27,12 @@
     &quot;assignee&quot;: &quot;fatenAdnanhigazi&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/fatenhigazi/data-dashboard.git",
-    "accountId": "caf60917-8844-4968-ab9c-d89470907561"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fatenhigazi/data-dashboard.git&quot;,
+    &quot;accountId&quot;: &quot;caf60917-8844-4968-ab9c-d89470907561&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/data-dashboard/src/main/java/com/sensor/api/controller/SensorDataController.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -52,10 +53,10 @@
     "JUnit.UARTSimulatorServiceTest.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "frontend",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/faten/IdeaProjects/data-dashboard",
+    "last_opened_file_path": "C:/Users/faten/IdeaProjects/data-dashboard/data-dashboard",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
   "keyToStringList": {
@@ -184,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741568676885</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="stash">
+      <option name="closed" value="true" />
+      <created>1741580560284</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741580560284</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +213,7 @@
       <path value="$PROJECT_DIR$/frontend/sensor-dashboard" />
     </ignored-roots>
     <MESSAGE value="new real time data sensor dashboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="new real time data sensor dashboard" />
+    <MESSAGE value="stash" />
+    <option name="LAST_COMMIT_MESSAGE" value="stash" />
   </component>
 </project>
