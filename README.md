@@ -1,7 +1,7 @@
 # Real-Time Sensor Data Dashboard
 
 ##  Overview
-Welcome to the **Real-Time Sensor Data Dashboard**! This full-stack application provides real-time temperature and humidity data using **Java Spring Boot (Backend)** and **Angular (Frontend)**. The system simulates a sensor using a **UART connection**, processes the data, and displays it on an interactive dashboard.
+This full-stack application provides real-time temperature and humidity data using **Java Spring Boot (Backend)** and **Angular (Frontend)**. The system simulates a sensor using a **UART connection**, processes the data, and displays it on an interactive dashboard.
 
 ##  Features
  **Simulated UART Communication** – A backend service generates real-time sensor data.
