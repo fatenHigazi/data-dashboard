@@ -1,0 +1,6 @@
+CREATE TABLE sensor_data (
+    id SERIAL PRIMARY KEY,
+    temperature DOUBLE PRECISION NOT NULL,
+    humidity DOUBLE PRECISION NOT NULL,
+    timestamp TIMESTAMP NOT NULL
+);
