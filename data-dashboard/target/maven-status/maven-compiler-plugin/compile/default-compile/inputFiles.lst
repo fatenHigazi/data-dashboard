@@ -1,0 +1,8 @@
+C:\Users\faten\IdeaProjects\data-dashboard\data-dashboard\src\main\java\com\sensor\api\controller\SensorDataController.java
+C:\Users\faten\IdeaProjects\data-dashboard\data-dashboard\src\main\java\com\sensor\api\exception\GlobalExceptionHandler.java
+C:\Users\faten\IdeaProjects\data-dashboard\data-dashboard\src\main\java\com\sensor\api\service\SensorDataService.java
+C:\Users\faten\IdeaProjects\data-dashboard\data-dashboard\src\main\java\com\sensor\DataDashboardApplication.java
+C:\Users\faten\IdeaProjects\data-dashboard\data-dashboard\src\main\java\com\sensor\simulator\model\SensorData.java
+C:\Users\faten\IdeaProjects\data-dashboard\data-dashboard\src\main\java\com\sensor\simulator\repository\SensorDataRepository.java
+C:\Users\faten\IdeaProjects\data-dashboard\data-dashboard\src\main\java\com\sensor\simulator\service\UARTSimulatorService.java
+C:\Users\faten\IdeaProjects\data-dashboard\data-dashboard\src\main\java\com\sensor\simulator\validation\SensorDataValidator.java
